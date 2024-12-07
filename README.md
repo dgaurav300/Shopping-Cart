@@ -7,13 +7,9 @@ Create an Add to cart using javascript with localstorage, filter & search functi
 
 
 
-## Demo
+## Learn 
 
-Tutorial : https://dev.to/rajamanickam/add-to-cart-using-javascript-3nom
-
-Demo : https://github.com/erajamanickam/add-to-cart-javascript
-
-Youtube : https://youtu.be/UPyNp-SVV4M
+Youtube : [https://www.youtube.com/@code-dixa-academy]
 
 
 
@@ -21,7 +17,7 @@ Youtube : https://youtu.be/UPyNp-SVV4M
 
 ## Tech Stack
 
-Javascript
+HTML, CSS, Javascript
 
 
 ## Screenshots
